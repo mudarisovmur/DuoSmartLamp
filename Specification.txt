@@ -1,0 +1,11 @@
+This project consist of following modules:
+1.Arduino MEGA2560 pro
+2.Esp8266-01
+3.Nrf24l01+
+4.AMS1117-3.3 LDO 800 мА
+5.TTP223
+6.Microphone max9814
+7.RGBW LED STRIP SK6812 MINI 5050 5mm
+8.Powerbank module 5V 2A (with battery)
+9.Vibration module with PWM.
+10.I2C OLED Screen 0.96d
